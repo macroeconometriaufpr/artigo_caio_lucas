@@ -1,0 +1,28 @@
+;;Correção de Erro Assimétrico;;Correção de Erro Simétrico;
+;;$\Delta PR$;$\Delta PD$;$\Delta PR$;$\Delta PD$
+Jan 2003 à Dez 2012;Constante;;;;
+;$\Delta PR_{t-1}$;;;;
+;$\Delta PD_{t-1}$;;;;
+;$Z^{POS}_{t-1}$;;;; 
+;$Z^{NEG}_{t-1}$;;;;
+;Estatística F;;;;
+;AIC;;;;
+;BIC;;;;
+;;$\Delta PR$;$\Delta PD$;$\Delta PR$;$\Delta PD$
+Jan 2003 à Dez 2007;Constante;;;;
+;$\Delta PR_{t-1}$;;;;
+;$\Delta PD_{t-1}$;;;;
+;$Z^{POS}_{t-1}$;;;; 
+;$Z^{NEG}_{t-1}$;;;;
+;Estatística F;;;;
+;AIC;;;;
+;BIC;;;;
+;;$\Delta PR$;$\Delta PD$;$\Delta PR$;$\Delta PD$
+Jan 2007 à Dez 2012;Constante;;;;
+;$\Delta PR_{t-1}$;;;;
+;$\Delta PD_{t-1}$;;;;
+;$Z^{POS}_{t-1}$;;;; 
+;$Z^{NEG}_{t-1}$;;;;
+;Estatística F;;;;
+;AIC;;;;
+;BIC;;;;

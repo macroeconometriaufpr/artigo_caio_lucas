@@ -1,0 +1,106 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v-1.9.3 }
+
+\bibitem[Abdulai 2002]{Abdulai2002}
+\abntrefinfo{Abdulai}{ABDULAI}{2002}
+{ABDULAI, A. Using threshold cointegration to estimate asymmetric price
+  transmission in the swiss pork market.
+\emph{Applied Economics}, Taylor \& Francis, v.~34, n.~6, p. 679--687, 2002.}
+
+\bibitem[Azzam 1999]{Azzam1999}
+\abntrefinfo{Azzam}{AZZAM}{1999}
+{AZZAM, A.~M. Asymmetry and rigidity in farm-retail price transmission.
+\emph{American journal of agricultural economics}, Oxford University Press,
+  v.~81, n.~3, p. 525--533, 1999.}
+
+\bibitem[Ben-Kaabia e Gil 2007]{Ben-Kaabia2007}
+\abntrefinfo{Ben-Kaabia e Gil}{BEN-KAABIA; GIL}{2007}
+{BEN-KAABIA, M.; GIL, J.~M. Asymmetric price transmission in the spanish lamb
+  sector.
+\emph{European Review of Agricultural Economics}, Oxford Univ Press, v.~34,
+  n.~1, p. 53--80, 2007.}
+
+\bibitem[Chen, Finney e Lai 2005]{Chen2005}
+\abntrefinfo{Chen, Finney e Lai}{CHEN; FINNEY; LAI}{2005}
+{CHEN, L.-H.; FINNEY, M.; LAI, K.~S. A threshold cointegration analysis of
+  asymmetric price transmission from crude oil to gasoline prices.
+\emph{Economics Letters}, Elsevier, v.~89, n.~2, p. 233--239, 2005.}
+
+\bibitem[Cramon-Taubadel e Loy 1996]{Cramon-Taubadel1996}
+\abntrefinfo{Cramon-Taubadel e Loy}{CRAMON-TAUBADEL; LOY}{1996}
+{CRAMON-TAUBADEL, S.; LOY, J.-P. Price asymmetry in the international wheat
+  market: Comment.
+\emph{Canadian Journal of Agricultural Economics/Revue canadienne
+  d'agroeconomie}, Wiley Online Library, v.~44, n.~3, p. 311--317, 1996.}
+
+\bibitem[Dickey e Fuller 1979]{Dickey1979}
+\abntrefinfo{Dickey e Fuller}{DICKEY; FULLER}{1979}
+{DICKEY, D.~A.; FULLER, W.~A. Distribution of the estimators for autoregressive
+  time series with a unit root.
+\emph{Journal of the American statistical association}, Taylor \& Francis,
+  v.~74, n.~366a, p. 427--431, 1979.}
+
+\bibitem[Elliott, Rothenberg e Stock 1996]{Elliott1996}
+\abntrefinfo{Elliott, Rothenberg e Stock}{ELLIOTT; ROTHENBERG; STOCK}{1996}
+{ELLIOTT, G.; ROTHENBERG, T.~J.; STOCK, J.~H. Efficient tests for an
+  autoregressive unit root.
+\emph{Econometrica}, v.~64, n.~4, p. 813--836, 1996.}
+
+\bibitem[Enders e Granger 1998]{Enders1998}
+\abntrefinfo{Enders e Granger}{ENDERS; GRANGER}{1998}
+{ENDERS, W.; GRANGER, C. W.~J. Unit-root tests and asymmetric adjustment with
+  an example using the term structure of interest rates.
+\emph{Journal of Business \& Economic Statistics}, Taylor \& Francis, v.~16,
+  n.~3, p. 304--311, 1998.}
+
+\bibitem[Engle e Granger 1987]{Engle1987}
+\abntrefinfo{Engle e Granger}{ENGLE; GRANGER}{1987}
+{ENGLE, R.~F.; GRANGER, C.~W. Co-integration and error correction:
+  representation, estimation, and testing.
+\emph{Econometrica: journal of the Econometric Society}, JSTOR, p. 251--276,
+  1987.}
+
+\bibitem[Garaffa 2016]{Garaffa2016}
+\abntrefinfo{Garaffa}{GARAFFA}{2016}
+{GARAFFA, R.
+\emph{TRANSMISS{\~A}O DE PRE{\c{C}}OS E INTEGRA{\c{C}}{\~A}O DE MERCADOS DE
+  G{\'A}S NATURAL NA EUROPA CONTINENTAL}.
+Tese (Doutorado) --- Universidade Federal do Rio de Janeiro, 2016.}
+
+\bibitem[Houck 1977]{Houck1977}
+\abntrefinfo{Houck}{HOUCK}{1977}
+{HOUCK, J.~P. An approach to specifying and estimating nonreversible functions.
+\emph{American Journal of Agricultural Economics}, Oxford University Press,
+  v.~59, n.~3, p. 570--572, 1977.}
+
+\bibitem[Huntington et al. 2013]{Huntington2013}
+\abntrefinfo{Huntington et al.}{HUNTINGTON et al.}{2013}
+{HUNTINGTON, H. et al. Oil markets and price movements: A survey of models.
+2013.}
+
+\bibitem[Mattos, Lima e Lirio 2009]{Mattos2009}
+\abntrefinfo{Mattos, Lima e Lirio}{MATTOS; LIMA; LIRIO}{2009}
+{MATTOS, L. B.~d.; LIMA, J. E.~d.; LIRIO, V.~S. Integra{\c{c}}{\~a}o espacial
+  de mercados na presen{\c{c}}a de custos de transa{\c{c}}{\~a}o: um estudo
+  para o mercado de boi gordo em minas gerais e s{\~a}o paulo.
+\emph{Revista de Economia e Sociologia Rural}, SciELO Brasil, v.~47, n.~1, p.
+  249--274, 2009.}
+
+\bibitem[Ravallion 1986]{Ravallion1986}
+\abntrefinfo{Ravallion}{RAVALLION}{1986}
+{RAVALLION, M. Testing market integration.
+\emph{American Journal of Agricultural Economics}, Oxford University Press,
+  v.~68, n.~1, p. 102--109, 1986.}
+
+\bibitem[Serra, Gil e Goodwin 2006]{Serra2006}
+\abntrefinfo{Serra, Gil e Goodwin}{SERRA; GIL; GOODWIN}{2006}
+{SERRA, T.; GIL, J.~M.; GOODWIN, B.~K. Local polynomial fitting and spatial
+  price relationships: price transmission in eu pork markets.
+\emph{European Review of Agricultural Economics}, Oxford Univ Press, v.~33,
+  n.~3, p. 415--436, 2006.}
+
+\end{thebibliography}
